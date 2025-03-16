@@ -1,7 +1,8 @@
 # Multimodal-LLM-Powered-Earnings-Call-Intelligence-Platform
 Developed a Streamlit web app for business earnings video analysis, integrating Whisper AI for transcription, CV2 for frame extraction, BLIP-2 for image captioning, and Mistral for summarization. Used NER for key entity extraction, mapped relationships with NetworkX, and visualized insights with word clouds, enabling data-driven decisions.
 
-##Business Earnings Video Analysis Web Application – Detailed Explanation Overview
+## Business Earnings Video Analysis Web Application – Detailed Explanation Overview
+
 This project is a Streamlit-based web application designed to analyze business earnings videos by combining multiple AI techniques for transcription, image processing, summarization, and entity extraction. The goal is to extract actionable insights from video content, making it easier for businesses to interpret financial discussions efficiently.
 Key Components & Workflow
 
