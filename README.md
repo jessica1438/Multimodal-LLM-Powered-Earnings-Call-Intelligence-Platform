@@ -44,4 +44,8 @@ Final Outcome & Business Impact This application enables businesses and investor
 
 ✅ Extract image-based insights that complement textual analysis.
 
-This AI-powered solution significantly enhances data-driven decision-making by converting unstructured video content into a structured, easy-to-analyze format. 🚀
+ solution significantly enhances data-driven decision-making by converting unstructured video content into a structured, easy-to-analyze format. 🚀
+
+
+This AI-powered<img width="1470" alt="Screenshot 2025-03-16 at 1 14 36 PM" src="https://github.com/user-attachments/assets/fe60d95d-8e9e-4b11-bf86-16753f19b877" />
+<img width="848" alt="Screenshot 2025-03-16 at 1 12 33 PM" src="https://github.com/user-attachments/assets/ebd49c27-9bde-48f0-9630-f41d3e6dc7f4" />
