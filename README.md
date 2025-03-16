@@ -46,22 +46,37 @@ Final Outcome & Business Impact This application enables businesses and investor
 
 This AI-powered solution significantly enhances data-driven decision-making by converting unstructured video content into a structured, easy-to-analyze format. 🚀
 
-<img width="841" alt="Screenshot 2025-03-16 at 1 19 50 PM" src="https://github.com/user-attachments/assets/a4dd135f-5ad3-48ef-a800-2242c5aea4fe" />
-<img width="848" alt="Screenshot 2025-03-16 at 1 19 39 PM" src="https://github.com/user-attachments/assets/eb64a95b-9d5e-4678-a0f8-ba44444b557d" />
-<img width="851" alt="Screenshot 2025-03-16 at 1 19 31 PM" src="https://github.com/user-attachments/assets/05c4daff-6168-493a-808c-8c5594200637" />
-<img width="885" alt="Screenshot 2025-03-16 at 1 19 15 PM" src="https://github.com/user-attachments/assets/5cf9cba3-4888-4509-8134-bb3e63429e25" />
-<img width="830" alt="Screenshot 2025-03-16 at 1 19 00 PM" src="https://github.com/user-attachments/assets/85155afd-b221-4d75-a108-525bd96351f7" />
-<img width="859" alt="Screenshot 2025-03-16 at 1 18 46 PM" src="https://github.com/user-attachments/assets/b4e03389-5ecc-4dc0-a7df-33aa19e7efd4" />
-<img width="870" alt="Screenshot 2025-03-16 at 1 17 58 PM" src="https://github.com/user-attachments/assets/70d3413b-e4df-466d-9207-a77c26157746" />
-<img width="860" alt="Screenshot 2025-03-16 at 1 17 29 PM" src="https://github.com/user-attachments/assets/fe5677ae-30e2-4833-8bb3-3956e8328d9f" />
-<img width="830" alt="Screenshot 2025-03-16 at 1 16 46 PM" src="https://github.com/user-attachments/assets/f5c035c9-6a11-4a3b-bc4e-6b6285d09635" />
-<img width="834" alt="Screenshot 2025-03-16 at 1 16 15 PM" src="https://github.com/user-attachments/assets/b3911938-36f4-44a9-88cd-fb13f54934a4" />
-<img width="807" alt="Screenshot 2025-03-16 at 1 16 03 PM" src="https://github.com/user-attachments/assets/a319d534-1263-48af-861a-abe85fdd9752" />
-<img width="811" alt="Screenshot 2025-03-16 at 1 15 48 PM" src="https://github.com/user-attachments/assets/e4d32dff-d052-47bf-9976-741fd8761254" />
-<img width="826" alt="Screenshot 2025-03-16 at 1 15 23 PM" src="https://github.com/user-attachments/assets/5ac9b413-8f9c-4054-9acb-75bb0d984e03" />
-<img width="851" alt="Screenshot 2025-03-16 at 1 14 56 PM" src="https://github.com/user-attachments/assets/c11c9485-4926-449f-ab77-2432f0d47e9d" />
-<img width="813" alt="Screenshot 2025-03-16 at 1 14 46 PM" src="https://github.com/user-attachments/assets/39e60f00-f78b-4c78-af7a-036900bb1ce6" />
-<img width="848" alt="Screenshot 2025-03-16 at 1 12 33 PM" src="https://github.com/user-attachments/assets/430abb8e-ad5a-487a-8313-e26b22b99934" />
+<img width="848" alt="Screenshot 2025-03-16 at 1 12 33 PM" src="https://github.com/user-attachments/assets/26b4115b-b203-47ba-b3ec-2cf239e66a56" />
+<img width="813" alt="Screenshot 2025-03-16 at 1 14 46 PM" src="https://github.com/user-attachments/assets/fd4667f2-7d94-4464-9c58-f65ed82ab8e5" />
+<img width="851" alt="Screenshot 2025-03-16 at 1 14 56 PM" src="https://github.com/user-attachments/assets/e551cf87-b172-4d69-96af-aacc8b9416a6" />
+<img width="826" alt="Screenshot 2025-03-16 at 1 15 23 PM" src="https://github.com/user-attachments/assets/d37f329e-6424-4f4d-a25a-c26f667931e7" />
+<img width="811" alt="Screenshot 2025-03-16 at 1 15 48 PM" src="https://github.com/user-attachments/assets/4a5b73fb-303a-4761-8d2b-09f5bce097a0" />
+<img width="807" alt="Screenshot 2025-03-16 at 1 16 03 PM" src="https://github.com/user-attachments/assets/67d3c1e9-a9a2-43f3-be7b-2a5b582a384a" />
+<img width="834" alt="Screenshot 2025-03-16 at 1 16 15 PM" src="https://github.com/user-attachments/assets/a26c016f-b3c9-4e17-9db5-babf9e853d5f" />
+<img width="830" alt="Screenshot 2025-03-16 at 1 16 46 PM" src="https://github.com/user-attachments/assets/6d22e684-eb51-4a85-a799-ebaa44961a2e" />
+<img width="860" alt="Screenshot 2025-03-16 at 1 17 29 PM" src="https://github.com/user-attachments/assets/46afd8dc-e2f5-4374-93c7-862ff0308548" />
+<img width="870" alt="Screenshot 2025-03-16 at 1 17 58 PM" src="https://github.com/user-attachments/assets/523d95f7-ec48-4fb9-8151-c549a992dfff" />
+<img width="859" alt="Screenshot 2025-03-16 at 1 18 46 PM" src="https://github.com/user-attachments/assets/a58f6ec3-4fe0-4bca-9461-f926dae11f29" />
+<img width="830" alt="Screenshot 2025-03-16 at 1 19 00 PM" src="https://github.com/user-attachments/assets/11ce7657-029d-497e-be92-0b15d0fbb5ea" />
+<img width="885" alt="Screenshot 2025-03-16 at 1 19 15 PM" src="https://github.com/user-attachments/assets/b7300508-818a-4598-bf90-ae79eb79e509" />
+<img width="851" alt="Screenshot 2025-03-16 at 1 19 31 PM" src="https://github.com/user-attachments/assets/a1cb0c5a-45cc-4573-9090-6bd22fcc6a59" />
+<img width="848" alt="Screenshot 2025-03-16 at 1 19 39 PM" src="https://github.com/user-attachments/assets/e1f04213-3d19-4518-9a06-652d42d9139c" />
+<img width="841" alt="Screenshot 2025-03-16 at 1 19 50 PM" src="https://github.com/user-attachments/assets/104bdd01-8be8-4595-b54d-9875830863f9" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
