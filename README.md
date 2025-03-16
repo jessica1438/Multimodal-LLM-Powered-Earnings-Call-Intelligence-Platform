@@ -1,0 +1,2 @@
+# Multimodal-LLM-Powered-Earnings-Call-Intelligence-Platform
+Developed a Streamlit web app for business earnings video analysis, integrating Whisper AI for transcription, CV2 for frame extraction, BLIP-2 for image captioning, and Mistral for summarization. Used NER for key entity extraction, mapped relationships with NetworkX, and visualized insights with word clouds, enabling data-driven decisions.
