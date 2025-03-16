@@ -46,6 +46,7 @@ Final Outcome & Business Impact This application enables businesses and investor
 
 This AI-powered solution significantly enhances data-driven decision-making by converting unstructured video content into a structured, easy-to-analyze format. 🚀
 
+![diagram-export-3-16-2025-1_59_13-PM](https://github.com/user-attachments/assets/9162c858-e9e7-4af5-baae-1eeec8f9cd7f)
 <img width="848" alt="Screenshot 2025-03-16 at 1 12 33 PM" src="https://github.com/user-attachments/assets/26b4115b-b203-47ba-b3ec-2cf239e66a56" />
 <img width="813" alt="Screenshot 2025-03-16 at 1 14 46 PM" src="https://github.com/user-attachments/assets/fd4667f2-7d94-4464-9c58-f65ed82ab8e5" />
 <img width="851" alt="Screenshot 2025-03-16 at 1 14 56 PM" src="https://github.com/user-attachments/assets/e551cf87-b172-4d69-96af-aacc8b9416a6" />
