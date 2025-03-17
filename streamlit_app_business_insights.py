@@ -418,8 +418,8 @@ if send_email:
     if st.button("📤 Send Email"):
         if "summary" in st.session_state:  # ✅ Ensure summary exists before sending
             try:
-                sender_email = "jessannajames@gmail.com"  # Replace with your Gmail
-                sender_password = "rkiw qnkc wixb wgys"  # Use the working App Password
+                sender_email = "jessxx"  # Replace with your Gmail
+                sender_password = "xxx"  # Use the working App Password
 
                 subject = "Your AI Generated Business Insights"
                 body = f"Here is your summary:\n\n{st.session_state['summary']}"  # ✅ Get summary from session state
